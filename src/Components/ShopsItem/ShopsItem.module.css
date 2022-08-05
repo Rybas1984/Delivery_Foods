@@ -1,0 +1,32 @@
+/*.ShopItem {*/
+/*    font-size: 25px;*/
+/*    font-weight: bold;*/
+/*    color: goldenrod;*/
+/*    }*/
+ul {
+    padding-top: 10px;
+    width: 300px;
+}
+li {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 200px;
+    list-style-type: none;
+    color: indigo;
+    font-weight: bold;
+    font-size: 24px;
+    border: 2px solid indigo ;
+    border-radius: 18px;
+    margin-bottom: 15px;
+    padding: 4px ;
+    text-align: center;
+
+}
+li:hover {
+    cursor: pointer;
+    color: yellowgreen;
+}
+.active {
+    color: white;
+    background-color: darkseagreen;
+}

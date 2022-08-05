@@ -1,0 +1,26 @@
+.container {
+    background-color: beige;
+    /*width: 100%;*/
+    height: 700px;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+
+
+}
+.itemsFoodsContainer {
+    /*max-width: 800px;*/
+    margin-right: 40px;
+    background-color: white;
+    /*height: 600px;*/
+    border: coral 2px solid;
+    border-radius: 10px;
+    overflow: auto;
+;
+    /*scroll: scroll;*/
+;
+}
+.itemsFoods {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+}

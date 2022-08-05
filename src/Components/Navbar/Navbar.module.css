@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    background-color: khaki;
+    height: 40px;
+}
+a {
+
+    background-color: wheat;
+    margin: 5px;
+    box-sizing: border-box;
+    padding-top: 2px;
+    width: 130px;
+    height: 30px;
+    border-radius: 15px;
+    border: black 1px solid;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+a {
+
+}
+a:hover {
+    color: darkorange;
+}
+.active {
+    /*width: 100%;*/
+    background-color: olivedrab;
+    color: white;
+}
+

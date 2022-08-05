@@ -1,0 +1,202 @@
+[
+  {
+    "id": 101,
+    "url": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/regular/Sdwch_McChicken.png?$Category_Desktop$",
+    "title": "Мак Чікен",
+    "shop": "McDonalds",
+    "price": 40,
+    "rating": "10",
+    "size": 160,
+    "types": 1
+  },
+  {
+    "id": 102,
+    "url": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/regular/thumb.Sdwch_BigMac.png?$Category_Desktop$",
+    "title": "Біг Мак",
+    "shop": "McDonalds",
+    "price": 55,
+    "rating": "10",
+    "size": 160,
+    "types": 1
+  },
+  {
+    "id": 103,
+    "url": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/regular/SdwchBigTasty.png?$Category_Desktop$",
+    "title": "Біг Тесті",
+    "shop": "McDonalds",
+    "price": 60,
+    "rating": "10",
+    "size": 160,
+    "types": 1
+  },
+  {
+    "id": 104,
+    "url": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/regular/Sdwch_Hamburger.png?$Category_Desktop$",
+    "title": "Гамбургер",
+    "shop": "McDonalds",
+    "price": 70,
+    "rating": "10",
+    "size": 160,
+    "types": 1
+  },
+  {
+    "id": 105,
+    "url": "https://www.mcdonalds.com/is/image/content/dam/ua/nutrition/nfl-product/product/regular/Sdwch_File-o-Fish.png?$Category_Desktop$",
+    "title": "Філе о Фіш",
+    "shop": "McDonalds",
+    "price": 80,
+    "rating": "10",
+    "size": 160,
+    "types": 1
+  },
+  {
+    "id": 201,
+    "url": "https://www.kfc-ukraine.com/admin/files/medium/medium_4061.jpg",
+    "title": "Чізбургер",
+    "shop": "KFC",
+    "price": 55,
+    "rating": "11",
+    "size": 200,
+    "types": 1
+  },
+  {
+    "id": 202,
+    "url": "https://www.kfc-ukraine.com/admin/files/medium/medium_3729.jpg",
+    "title": "Тост 2 Сиру",
+    "shop": "KFC",
+    "price": 30,
+    "rating": "11",
+    "size": 200,
+    "types": 1
+  },
+  {
+    "id": 203,
+    "url": "https://www.kfc-ukraine.com/admin/files/medium/medium_4117.png",
+    "title": "Дабл Чікен",
+    "shop": "KFC",
+    "price": 105,
+    "rating": "8",
+    "size": 300,
+    "types": 1
+  },
+  {
+    "id": 204,
+    "url": "https://www.kfc-ukraine.com/admin/files/medium/medium_4064.jpg",
+    "title": "Чікенбургер",
+    "shop": "KFC",
+    "price": 75,
+    "rating": "7",
+    "size": 170,
+    "types": 1
+  },
+  {
+    "id": 205,
+    "url": "https://www.kfc-ukraine.com/admin/files/medium/medium_4068.jpg",
+    "title": "Тост Український",
+    "shop": "KFC",
+    "price": 45,
+    "rating": "12",
+    "size": 200,
+    "types": 1
+  },
+  {
+    "id": 301,
+    "url": "https://pasteria.kh.ua/image/cache/catalog/margaritta-280x210.JPG",
+    "title": "Маргарита",
+    "shop": "Pasteria",
+    "price": 79,
+    "rating": "8",
+    "size": 350,
+    "types": 1
+  },
+  {
+    "id": 302,
+    "url": "https://pasteria.kh.ua/image/cache/catalog/mark-280x210.jpg",
+    "title": "Марко Поло",
+    "shop": "Pasteria",
+    "price": 66,
+    "rating": "8",
+    "size": 350,
+    "types": 1
+  },
+  {
+    "id": 303,
+    "url": "https://pasteria.kh.ua/image/cache/catalog/sonya-280x210.JPG",
+    "title": "Соня",
+    "shop": "Pasteria",
+    "price": 88,
+    "rating": "8",
+    "size": 350,
+    "types": 1
+  },
+  {
+    "id": 304,
+    "url": "https://pasteria.kh.ua/image/cache/catalog/alkapone-280x210.JPG",
+    "title": "Аль Капоне",
+    "shop": "Pasteria",
+    "price": 65,
+    "rating": "8",
+    "size": 350,
+    "types": 1
+  },
+  {
+    "id": 305,
+    "url": "https://pasteria.kh.ua/image/cache/catalog/bomba-280x210.JPG",
+    "title": "Бомба",
+    "shop": "Pasteria",
+    "price": 89,
+    "rating": "8",
+    "size": 350,
+    "types": 1
+  },
+  {
+    "id": 401,
+    "url": "https://static.insalescdn.com/images/products/1/3574/131657206/large_%D1%84%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F-1.jpg",
+    "title": "Ролл филадельфия",
+    "shop": "Sushipapa",
+    "price": 199,
+    "rating": "8",
+    "size": 280,
+    "types": 1
+  },
+  {
+    "id": 402,
+    "url": "https://static.insalescdn.com/images/products/1/4031/131657663/large_%D1%84%D0%B8%D0%BB%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA-1.jpg",
+    "title": "Ролл філа класік",
+    "shop": "Sushipapa",
+    "price": 199,
+    "rating": "7",
+    "size": 270,
+    "types": 1
+  },
+  {
+    "id": 403,
+    "url": "https://static.insalescdn.com/images/products/1/2524/264423900/large_%D1%84%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F-%D0%BB%D0%B0%D0%B9%D1%82-new-1.jpg",
+    "title": "Ролл филадельфия лайт",
+    "shop": "Sushipapa",
+    "price": 139,
+    "rating": "10",
+    "size": 220,
+    "types": 1
+  },
+  {
+    "id": 404,
+    "url": "https://static.insalescdn.com/images/products/1/274/131662098/large_%D1%84%D1%83%D1%82%D0%BE%D0%BC%D0%B0%D0%BA%D0%B8-%D1%81-%D1%88%D0%B8%D0%B8%D1%82%D0%B0%D0%BA%D0%B5-1.jpg",
+    "title": "Ролл футомаки с шиитаке",
+    "shop": "Sushipapa",
+    "price": 89,
+    "rating": "12",
+    "size": 185,
+    "types": 1
+  },
+  {
+    "id": 405,
+    "url": "https://static.insalescdn.com/images/products/1/4668/373379644/large_2.jpg",
+    "title": "Ролл фила с томаго и чукой",
+    "shop": "Sushipapa",
+    "price": 80,
+    "rating": "15",
+    "size": 205,
+    "types": 1
+  }
+]
